@@ -3,11 +3,40 @@
 #Google web font:
 
  * [Khyay](https://fonts.google.com/earlyaccess#Khyay)
+ ```css
+    @import url(http://fonts.googleapis.com/earlyaccess/khyay.css);
+    font-family: 'Khyay', sans-serif;
+ ```
+
  * [Myanmar Sans Pro](https://fonts.google.com/earlyaccess#Myanmar+Sans+Pro)
+```css
+    @import url(//fonts.googleapis.com/earlyaccess/myanmarsanspro.css);
+    font-family: 'Myanmar Sans Pro', sans-serif;
+```
+
  * [Noto Sans Myanmar](https://fonts.google.com/earlyaccess#Noto+Sans+Myanmar)
+ ```css
+    @import url(//fonts.googleapis.com/earlyaccess/notosansmyanmar.css);
+    font-family: 'Noto Sans Myanmar', sans-serif;
+ ```
+
  * [Noto Sans Myanmar UI](https://fonts.google.com/earlyaccess#Noto+Sans+Myanmar+UI)
+ ```css
+    @import url(//fonts.googleapis.com/earlyaccess/notosansmyanmarui.css);
+    font-family: 'Noto Sans Myanmar UI', sans-serif;
+ ```
+
  * [Tharlon](https://fonts.google.com/earlyaccess#Tharlon)
+ ```css
+    @import url(//fonts.googleapis.com/earlyaccess/tharlon.css);
+    font-family: 'Tharlon', sans-serif;
+ ```
+
  * [Padauk](https://fonts.google.com/specimen/Padauk)
+ ```css
+    @import url('https://fonts.googleapis.com/css?family=Padauk');
+    font-family: 'Padauk', sans-serif;
+ ```
 
 ---
 #[MMWebFonts](https://mmwebfonts.comquas.com/)
